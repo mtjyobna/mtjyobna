@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hello there! 👋
 
 I'm Jyobna, an aspiring Product Manager with a knack for diving deep into data. Before diving into the world of product management, 
@@ -15,7 +13,6 @@ By the way, you can also download my resume [here](https://jyobna.github.io/asse
 
 
 
-----
 <!--
 [![Rishin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishinrahim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishinrahim)](https://github.com/anuraghazra/github-readme-stats)
