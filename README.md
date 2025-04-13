@@ -1,6 +1,6 @@
-### Hello there! 👋
+### Hi there! 👋
 
-Product Manager -  Currenlty leading a 0-to-1 development of a health & fitness app.
+I'm Jyobna -  a Product Manager, currenlty leading a 0-to-1 development of a health & fitness app.
 
 **How to reach me**: 
 - [Twitter](https://twitter.com/jyobna)
