@@ -1,15 +1,13 @@
 ### Hello there! 👋
 
-I'm Jyobna, an aspiring Product Manager with a knack for diving deep into data. Before diving into the world of product management, 
-I honed my skills as a Data Analyst, and that analytical foundation is something I still lean on heavily today.
-
+Product Manager -  Currenlty leading a 0-to-1 development of a health & fitness app.
 
 **How to reach me**: 
 - [Twitter](https://twitter.com/jyobna)
 - [Linkedin](https://www.linkedin.com/in/jyobna-m-t-90644a1a2)
 - [Personal Blog/Website](https://jyobna.github.io)
 
-By the way, you can also download my resume [here](https://jyobna.github.io/assets/resume.pdf)
+
 
 
 
